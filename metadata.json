@@ -1,0 +1,6 @@
+{
+  "name": "LUMÉRA SKIN",
+  "description": "LUMÉRA SKIN — Minimalist, science-inspired skincare storefront. Discover gentle cleansers, targeted serums, barrier moisturizers, and daily SPF routines crafted for healthy, glowing skin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
